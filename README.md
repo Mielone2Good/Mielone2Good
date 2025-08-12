@@ -47,7 +47,7 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&right_color=aqua&left_text=Profile%20Visitors"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mielone2Good.Mielone2Good&right_color=aqua&left_text=Profile%20Visitors"  />
 
 ###
 
@@ -123,12 +123,10 @@
 
 <br clear="both">
 
-<h2 align="left">📊 Stats</h2>
+## 📊 GitHub Stats
+![](https://nirzak-streak-stats.vercel.app/?user=Mielone2Good&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mielone2Good&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mielone2Good&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mielone2Good&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
