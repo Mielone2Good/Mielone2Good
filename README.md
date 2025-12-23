@@ -67,17 +67,3 @@
 
 ###
 
-<br clear="both">
-<h2 align="left">💼  Past Work</h2>
-
-###
-
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ1ajN3bmg3anFrOTV5MzdxZzZyNG5hNjlpcWZ3YjNqNzQ3aHp5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
-
-###
-
-<p align="left">I develop AI-driven solutions that enhance data accessibility, content understanding, and digital organization through advanced natural language processing and machine learning techniques. My projects include a local, multilingual semantic search engine for PDFs (DocVision AI) that breaks language barriers and understands document context without relying on exact keywords. I also build scalable video summarization tools that leverage transformer models to generate concise and customizable summaries of YouTube content, employing smart chunking and hierarchical processing. Additionally, I created CleanDesk AI, a smart local file organizer that automatically groups files by their semantic content using embeddings and clustering algorithms, ensuring privacy through fully offline operation.</p>
-
-###
-
-
