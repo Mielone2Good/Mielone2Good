@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">👩‍💻  Hey There!</h2>
+<h2 align="left">💻 Hey There!</h2>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">My name is Mikołaj, and im AI & Python developer working with neural networks, NLP, and scalable backend systems to build smart, privacy-first solutions. From semantic PDF search that understands meaning across languages to local LLM video summarizers, I turn complex ideas into elegant, reliable products that bridge the gap between AI research and real-world use.</p>
+<p align="left">My name is Mikołaj, and im AI Engineer and Python Full-Stack Developer specializing in machine learning, cloud solutions, and deep learning. Focused on building cloud-based AI solutions and MVPs for startups, turning complex ideas into actionable applications. Experienced with transformer models and frameworks like FastAPI and Flask to deliver high-performance AI tools. </p>
 
 ###
 
