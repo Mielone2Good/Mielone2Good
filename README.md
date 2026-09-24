@@ -1,69 +1,17 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/mikolajjaros/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mixdevv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="discord.com/users/712253379283255357" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/mikolaj_jaros" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/mik_jaros" traget="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111113,100:F97316&height=110&section=header" width="100%" alt="" />
 
+<a href="https://mikolajjaros.vercel.app/"><img src="assets/terminal-hero.svg" alt="whoami: Mikołaj Jaros. Building software that ships, from the first idea to production." width="100%" /></a>
 
-###
+<p align="center">
+  <img src="assets/principles.svg" width="49%" alt="Principles: own it end to end, ship early and iterate fast, keep it running in production" />
+  <img src="assets/skills.svg" width="49%" alt="Skills: AWS, Supabase, Vercel, Docker, Python, TypeScript, FastAPI, Git" />
+</p>
 
-<br clear="both">
+<p align="center">
+  <a href="https://mikolajjaros.vercel.app/"><img src="https://img.shields.io/static/v1?label=&labelColor=&logoColor=white&message=Portfolio&logo=vercel&color=000000&style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mikolajjaros/"><img src="https://img.shields.io/static/v1?label=&labelColor=&logoColor=white&message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:mik.jaros@gmail.com"><img src="https://img.shields.io/static/v1?label=&labelColor=&logoColor=white&message=Email&logo=gmail&color=D14836&style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.hackerrank.com/profile/mik_jaros"><img src="https://img.shields.io/static/v1?label=&labelColor=&logoColor=white&message=HackerRank&logo=hackerrank&color=2EC866&style=for-the-badge" alt="HackerRank" /></a>
+</p>
 
-<div align="center">
-  <img src="https://s14.gifyu.com/images/bNWVY.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h2 align="left">💻 Hey There!</h2>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mielone2Good.Mielone2Good&right_color=aqua&left_text=Profile%20Visitors"  />
-
-###
-
-<p align="left">My name is Mikołaj, and im AI Engineer and Python Full-Stack Developer specializing in machine learning, cloud solutions, and deep learning. Focused on building cloud-based AI solutions and MVPs for startups, turning complex ideas into actionable applications. Experienced with transformer models and frameworks like FastAPI and Flask to deliver high-performance AI tools. </p>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mielone2Good/Mielone2Good/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mielone2Good/Mielone2Good/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mielone2Good/Mielone2Good/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111113,100:F97316&height=110&section=footer" width="100%" alt="" />
